@@ -156,7 +156,7 @@ module Web
         # Specify sources for assets
         #
         sources << [
-          'assets', '/assets/stylesheets/bulma/css'
+          'assets', 'assets/stylesheets/bulma/css'
         ]
       end
 
